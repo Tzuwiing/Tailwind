@@ -778,6 +778,7 @@ video {
   margin-top: 2rem;
 }
 
+<<<<<<< Updated upstream
 .mt-9 {
   margin-top: 2.25rem;
 }
@@ -792,6 +793,10 @@ video {
 
 .mt-7 {
   margin-top: 1.75rem;
+=======
+.mt-\[60px\] {
+  margin-top: 60px;
+>>>>>>> Stashed changes
 }
 
 .block {
@@ -863,10 +868,13 @@ video {
   height: 600px;
 }
 
+<<<<<<< Updated upstream
 .h-\[700px\] {
   height: 700px;
 }
 
+=======
+>>>>>>> Stashed changes
 .h-full {
   height: 100%;
 }
@@ -875,10 +883,13 @@ video {
   height: 300px;
 }
 
+<<<<<<< Updated upstream
 .h-6 {
   height: 1.5rem;
 }
 
+=======
+>>>>>>> Stashed changes
 .h-4 {
   height: 1rem;
 }
@@ -887,8 +898,13 @@ video {
   height: 1.25rem;
 }
 
+<<<<<<< Updated upstream
 .h-\[750px\] {
   height: 750px;
+=======
+.h-6 {
+  height: 1.5rem;
+>>>>>>> Stashed changes
 }
 
 .w-1\/2 {
@@ -967,12 +983,21 @@ video {
   width: 300px;
 }
 
+<<<<<<< Updated upstream
 .w-6 {
   width: 1.5rem;
 }
 
 .w-4 {
   width: 1rem;
+=======
+.w-4 {
+  width: 1rem;
+}
+
+.w-6 {
+  width: 1.5rem;
+>>>>>>> Stashed changes
 }
 
 .max-w-lg {
@@ -2073,18 +2098,42 @@ video {
   visibility: hidden;
 }
 
+<<<<<<< Updated upstream
 :is(.dark .dark\:h-6) {
   height: 1.5rem;
 }
 
+=======
+>>>>>>> Stashed changes
 :is(.dark .dark\:translate-x-3) {
   --tw-translate-x: 0.75rem;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
+<<<<<<< Updated upstream
 :is(.dark .dark\:border-slate-950) {
   --tw-border-opacity: 1;
   border-color: rgb(2 6 23 / var(--tw-border-opacity));
+=======
+:is(.dark .dark\:border-slate-500) {
+  --tw-border-opacity: 1;
+  border-color: rgb(100 116 139 / var(--tw-border-opacity));
+}
+
+:is(.dark .dark\:border-slate-900) {
+  --tw-border-opacity: 1;
+  border-color: rgb(15 23 42 / var(--tw-border-opacity));
+}
+
+:is(.dark .dark\:border-blue-500) {
+  --tw-border-opacity: 1;
+  border-color: rgb(59 130 246 / var(--tw-border-opacity));
+}
+
+:is(.dark .dark\:border-slate-50) {
+  --tw-border-opacity: 1;
+  border-color: rgb(248 250 252 / var(--tw-border-opacity));
+>>>>>>> Stashed changes
 }
 
 :is(.dark .dark\:bg-black) {
@@ -2092,14 +2141,33 @@ video {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
+<<<<<<< Updated upstream
+=======
+:is(.dark .dark\:bg-slate-500) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(100 116 139 / var(--tw-bg-opacity));
+}
+
+>>>>>>> Stashed changes
 :is(.dark .dark\:bg-slate-900) {
   --tw-bg-opacity: 1;
   background-color: rgb(15 23 42 / var(--tw-bg-opacity));
 }
 
+<<<<<<< Updated upstream
 :is(.dark .dark\:bg-slate-950) {
   --tw-bg-opacity: 1;
   background-color: rgb(2 6 23 / var(--tw-bg-opacity));
+=======
+:is(.dark .dark\:bg-blue-500) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+}
+
+:is(.dark .dark\:bg-slate-50) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(248 250 252 / var(--tw-bg-opacity));
+>>>>>>> Stashed changes
 }
 
 :is(.dark .dark\:text-white) {
@@ -2214,6 +2282,7 @@ video {
     margin-top: 3rem;
   }
 
+<<<<<<< Updated upstream
   .md\:mt-16 {
     margin-top: 4rem;
   }
@@ -2236,16 +2305,31 @@ video {
 
   .md\:mt-\[70px\] {
     margin-top: 70px;
+=======
+  .md\:mt-24 {
+    margin-top: 6rem;
+  }
+
+  .md\:mt-5 {
+    margin-top: 1.25rem;
+  }
+
+  .md\:mt-\[90px\] {
+    margin-top: 90px;
+>>>>>>> Stashed changes
   }
 
   .md\:grid {
     display: grid;
   }
 
+<<<<<<< Updated upstream
   .md\:h-\[1000px\] {
     height: 1000px;
   }
 
+=======
+>>>>>>> Stashed changes
   .md\:h-\[800px\] {
     height: 800px;
   }
