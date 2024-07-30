@@ -1,10 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-<<<<<<< Updated upstream
   darkMode: 'class',
-=======
-  darkMode: "class",
->>>>>>> Stashed changes
   content: ["./public/**/*.{html,js}"],
   theme: {
     // container: {
